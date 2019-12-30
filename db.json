@@ -1,0 +1,81 @@
+{
+  "training_types": [
+    { "id": "1", "name": "ASIST Training for Trainers (T4T) 5 Day - English" },
+    { "id": "2", "name": "ASIST 10 Workshop English - 2 Day" },
+    { "id": "3", "name": "ASIST 10 TuneUp - English" },
+    { "id": "4", "name": "ASIST 10 TuneUp - French" },
+    { "id": "5", "name": "suicideTALK Session - English" },
+    { "id": "7", "name": "safeTALK Training - English" },
+    { "id": "8", "name": "safeTALK Training for Trainers (T4T) 2 Day" },
+    { "id": "9", "name": "safeTALK Training - French" },
+    { "id": "10", "name": "ASIST 10 Workshop French - 2 Day" },
+    { "id": "11", "name": "ASIST Training for Trainers (T4T) Military 5 Day" },
+    {
+      "id": "12",
+      "name": "ASIST 11 Upgrader for ASIST X Trainers 1 Day - English"
+    },
+    { "id": "13", "name": "Conference" },
+    { "id": "15", "name": "ASIST 11 Workshop French - 2 Day" },
+    { "id": "16", "name": "suicide to Hope Workshop" },
+    {
+      "id": "17",
+      "name": "ASIST 11 Upgrader for ASIST X Trainers 1 Day - French"
+    },
+    { "id": "18", "name": "Formation de formateurs ASIST FDF 5 jours " },
+    { "id": "19", "name": "ASIST 11 TuneUp - English" },
+    { "id": "20", "name": "ASIST 11 Workshop English - 2 Day" },
+    {
+      "id": "21",
+      "name": "safeTALK Training for Trainers (T4T) Military 2 Day"
+    },
+    {
+      "id": "22",
+      "name": "suicide to Hope Training for Facilitators (T4F) 3 Day"
+    },
+    { "id": "23", "name": "suicideTALK Session - French" },
+    {
+      "id": "24",
+      "name": "safeTALK T4T Formation de formateurs safeTALK FDF 2 jours "
+    }
+  ],
+  "trainings": [
+    {
+      "id": 1,
+      "training_type_id": 7,
+      "title": "safeTalk Training",
+      "location": "Ottawa, Ontatio, Canada",
+      "language": "English",
+      "description": "This workshop is open to youth ages 16-25 years only",
+      "date": "2019-01-03",
+      "time": {
+        "start_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      "deadline": "2019-12-31T23:59:59Z",
+      "contact_information": {
+        "contact_name": "Breanna Pizzuto",
+        "contact_email": "info@talktoolstraining.com"
+      },
+      "cost": "$30 includes workbook"
+    },
+    {
+      "id": 2,
+      "training_type_id": 7,
+      "title": "Simsbury safeTalk Training",
+      "location": "Ottawa, Ontatio, Canada",
+      "language": "English",
+      "description": "",
+      "date": "2019-01-03",
+      "time": {
+        "start_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      "deadline": "2019-12-31T23:59:59Z",
+      "contact_information": {
+        "contact_name": "Breanna Pizzuto",
+        "contact_email": "info@talktoolstraining.com"
+      },
+      "cost": "$30 includes workbook"
+    }
+  ]
+}
